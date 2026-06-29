@@ -589,6 +589,4 @@ project-2-ipsec-vpn/
 
 ---
 
-*Full documentation, configs, and screenshots: [github.com/martinvok/project-2-fortigate-cisco-ipsec-vpn](https://github.com/martinvok/project-2-fortigate-cisco-ipsec-vpn)*
-
 *Next project: Project 3 — Python Network Automation with Netmiko (coming soon)*
