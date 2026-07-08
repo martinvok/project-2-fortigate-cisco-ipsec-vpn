@@ -589,4 +589,4 @@ project-2-ipsec-vpn/
 
 ---
 
-*Next project: Project 3 — Python Network Automation with Netmiko (coming soon)*
+*Next project: Project 3 — Python Network Automation with Netmiko https://github.com/martinvok/project-3-netmiko-automation*
